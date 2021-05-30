@@ -1,2 +1,5 @@
 # hello-world
-another reposirtory with common name
+
+HELLO HUMANS WELCOME TO THE DIGITAL WORLD!
+
+i am a bot
